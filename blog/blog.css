@@ -1,0 +1,25 @@
+:root { --blue: #0b2cf5; --ink: #03050c; --cream: #efebe2; --yellow: #ffc81e; --green: #25d366; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background-color: var(--cream); color: var(--ink); font-family: "DM Sans", system-ui, sans-serif; line-height: 1.75; font-size: 1.08rem;
+  background-image: linear-gradient(rgba(3,5,12,.05) 1px, transparent 1px), linear-gradient(90deg, rgba(3,5,12,.05) 1px, transparent 1px); background-size: 28px 28px; }
+a { color: var(--blue); }
+.top { background: var(--ink); color: var(--cream); display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; font-family: "Schoolbell", cursive; }
+.top a { color: var(--cream); text-decoration: none; display: flex; align-items: center; gap: 8px; }
+.top img { width: 28px; height: 28px; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 50px 20px 90px; }
+.crumb { font-family: "DM Mono", monospace; font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; margin-bottom: 20px; }
+h1 { font-family: "Gloria Hallelujah", cursive; font-weight: 400; font-size: clamp(2rem, 6vw, 3.2rem); line-height: 1.15; margin-bottom: 14px; }
+.meta { font-family: "DM Mono", monospace; font-size: .8rem; color: #555; margin-bottom: 30px; }
+.answer { background: #fff; border: 2px solid var(--ink); box-shadow: 6px 6px 0 var(--blue); padding: 18px 22px; margin-bottom: 34px; }
+.answer b { font-family: "DM Mono", monospace; font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--blue); display: block; margin-bottom: 6px; }
+h2 { font-family: "Gloria Hallelujah", cursive; font-weight: 400; font-size: 1.6rem; margin: 34px 0 10px; }
+p { margin-bottom: 16px; }
+ul, ol { margin: 0 0 18px 22px; }
+li { margin-bottom: 6px; }
+.cta { margin-top: 46px; background: var(--blue); color: #fff; padding: 26px; border: 2px solid var(--ink); box-shadow: 8px 8px 0 var(--ink); }
+.cta h2 { margin-top: 0; }
+.cta a.btn { display: inline-block; margin-top: 8px; background: var(--green); color: var(--ink); text-decoration: none; font-weight: 700; padding: 10px 18px; border: 2px solid var(--ink); box-shadow: 4px 4px 0 var(--ink); }
+.list a.card { display: block; background: #fff; border: 2px solid var(--ink); box-shadow: 6px 6px 0 var(--blue); padding: 22px; margin-bottom: 22px; color: var(--ink); text-decoration: none; transition: transform .2s; }
+.list a.card:hover { transform: translateY(-4px); }
+.list h2 { margin: 6px 0; font-size: 1.45rem; }
+footer { text-align: center; padding: 30px 20px 50px; font-family: "Schoolbell", cursive; }

@@ -1,0 +1,38 @@
+# Sachin Hebbale
+
+> Sachin Kallappa Hebbale is an AI Engineer and freelance web & AI developer based in Belagavi, Karnataka, India. He builds websites and AI chatbots for photographers, studios and local businesses, working with clients in Belagavi, Hubballi-Dharwad and across India.
+
+## Facts
+- Full name: Sachin Kallappa Hebbale (goes by Sachin Hebbale)
+- Location: Belagavi, Karnataka, India
+- Role: AI Engineer at Teamium.io; freelance website and AI chatbot developer
+- Previous: Computer Vision Engineer Intern at PIVAGA; AI Intern at Vinidra Softech
+- Education: B.E. Computer Engineering, Visvesvaraya Technological University (2022-2026)
+- Research: published work on a voice-based banking assistant for people who cannot read
+- Skills: Python, SQL, JavaScript, Java, LLMs, RAG, semantic search (pgvector), Gemini, OpenCV, Firebase, MongoDB
+
+## Services
+- Business websites: mobile-first sites with WhatsApp and call buttons, basic SEO, hosting and launch handled
+- AI chatbots: website or WhatsApp assistants that answer from a business's own FAQs and prices and pass leads to the owner
+- AI automation and smart search for teams and startups
+- SEO, local SEO (Google Maps / "near me"), GEO (visibility in ChatGPT and AI answers) and AEO (FAQ answers Google can show) for client websites
+- Blog posts and FAQ content written for client websites
+- Logo animation: cinematic logo reveals and intros for production houses, studios and brands
+
+## Work (live sites)
+- [Onset Media](https://sachin-media-portfolio.netlify.app/): website for a concert, wedding and event film-maker in Belagavi
+- [Onset Media logo animation](https://sachin-hebbale.netlify.app/work/onset-logo.mp4): cinematic logo reveal for the Onset Media production house
+- [Akshay Entertainment](https://akshay-entertainment-demo.netlify.app/): film production house, academy and studio site
+- [Siddu Digital](https://siddu-digital-demo.netlify.app/): wedding photographer website, Hubballi
+- [RCB Fan Hub](https://rcb09.netlify.app/): multi-page cricket fan site concept
+
+## Contact
+- WhatsApp / phone: +91 99649 12693
+- Email: sachinhebbale8@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sachin-kallappa-hebbale/
+- Instagram: https://www.instagram.com/ai_with_sachin9/
+
+## Blog
+- [How much does a website cost for a small business in Belagavi?](https://sachin-hebbale.netlify.app/blog/website-cost-belagavi.html)
+- [Why wedding photographers need a website, not just Instagram](https://sachin-hebbale.netlify.app/blog/photographers-need-a-website.html)
+- [What an AI chatbot can and can't do for a small business](https://sachin-hebbale.netlify.app/blog/ai-chatbot-small-business.html)

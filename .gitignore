@@ -1,0 +1,7 @@
+# raw source files (web-optimized copies are in the site)
+ChatGPT Image*.png
+phoenix_connection_*.mp3
+Onset Media Logo Animation.mp4
+# internal notes
+CLAUDE.md
+.netlify/
